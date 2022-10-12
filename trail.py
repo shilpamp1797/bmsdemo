@@ -1,6 +1,6 @@
 #x = 5
 #y = 10
-
+#Swapping values by taking user input
 # To take inputs from the user
 x = input('Enter value of x: ')
 y = input('Enter value of y: ')
