@@ -6,5 +6,5 @@ void main()
   scanf("%d",&n);
   for(i=0;i<n;i++)
     sum=sum+i;
-  printf("Sum of n elements =%d",sum);
+  printf("Sum =%d",sum);
 }
